@@ -20,7 +20,7 @@ A command-line utility to search and optionally replace patterns in files across
 Run the following command to install `re`:
 
 ```sh
-go install github.com/4thel00z/re@latest
+go install github.com/4thel00z/re/...@latest
 ```
 
 Make sure your `$GOPATH/bin` is in your `$PATH` to use the `re` command anywhere.
